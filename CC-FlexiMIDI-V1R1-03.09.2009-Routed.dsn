@@ -1,4 +1,4 @@
-(PCB "C:/Users/TLE/OneDrive/CC-FlexiMIDI-V1R1-03.09.2009/CC-FlexiMIDI-V1R1-03.09.2009/CC-FlexiMIDI-V1R1-03.09.2009.brd"
+(PCB "C:/CC-FlexiMIDI-V1R1-03.09.2009/Current/CC-FlexiMIDI-V1R1-03.09.2009.brd"
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
