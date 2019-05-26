@@ -11,3 +11,4 @@ This project is an updated version of the "CC-FlexiMIDI-V1R0-03.09.2009", a hard
 
 I, "Uncle" Robert "The R.A.T." Allen Turner, have decided to polish up the design a bit and lay out a manufacturable Printed Circuit Board which I will release under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. This version will be called: "CC-FlexiMIDI-V1R1-03.09.2009"
 
+There is an OSHPark Page Here: https://oshpark.com/shared_projects/ZgJbGTm8
