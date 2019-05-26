@@ -1,0 +1,2 @@
+DRC SAVE 'C:/CC-FlexiMIDI-V1R1-03.09.2009/Current/CC-FlexiMIDI-V1R1-03.09.2009.dru';
+RUN brd_to_dsn.ulp f;
