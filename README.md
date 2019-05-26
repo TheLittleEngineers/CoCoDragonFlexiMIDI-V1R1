@@ -11,4 +11,3 @@ This project is an updated version of the "CC-FlexiMIDI-V1R0-03.09.2009", a hard
 
 I, "Uncle" Robert "The R.A.T." Allen Turner, have decided to polish up the design a bit and lay out a manufacturable Printed Circuit Board which I will release under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. This version will be called: "CC-FlexiMIDI-V1R1-03.09.2009"
 
-DO NOT USE THIS YET - I LEFT OUT THE IRQ* CIRCUIT SELECTION - I AM ROUTING A NEW BOARD NOW - UPDATES SOON...
